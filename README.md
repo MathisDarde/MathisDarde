@@ -5,4 +5,4 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,typescript,react,nextjs,vscode)](https://skillicons.dev)
